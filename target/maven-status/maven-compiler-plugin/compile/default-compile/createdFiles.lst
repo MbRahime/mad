@@ -1,0 +1,6 @@
+dz/univebechar/mad/MadApplication.class
+dz/univebechar/mad/entity/User.class
+dz/univebechar/mad/entity/Operation.class
+dz/univebechar/mad/controller/UserController.class
+dz/univebechar/mad/entity/Budjet.class
+dz/univebechar/mad/repository/UserRepository.class
